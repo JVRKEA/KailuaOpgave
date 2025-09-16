@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class Main {
     private static final String DB_URL = "jdbc:mysql://localhost:3306/kailua_car_rental";
     private static final String DB_USER = "root";
-    private static final String DB_PASS = "Jusi201010";
+    private static final String DB_PASS = "JVRKEA";
 
     private Connection conn;
     private Scanner scanner = new Scanner(System.in);
